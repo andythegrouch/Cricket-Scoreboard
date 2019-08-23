@@ -1,0 +1,33 @@
+"Source:","C:\Users\am_ga\OneDrive\Desktop\Scoreboard\PCB\digit_controller\digit_controller.sch"
+"Date:","23/07/2019 17:25:26"
+"Tool:","Eeschema (5.1.2)-2"
+"Generator:","C:\Program Files\KiCad\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","9"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"","","J1","SRCK","Connector_Generic:Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal","~"
+"","","J2","RCLK","Connector_Generic:Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal","~"
+"","","J3","SER IN/OUT","Connector_Generic:Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal","~"
+"","","J4","12V","Connector_Generic:Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal","~"
+"","","J5","GND","Connector_Generic:Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal","~"
+"","","J6","5V","Connector_Generic:Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal","~"
+"","","J7","LED 12V","Connector:Conn_01x01_Female","Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal","~"
+"","","J8","LED Anodes","Connector:Conn_01x07_Female","Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Horizontal","~"
+"","","U1","TPIC6595","Interface_Expansion:TPIC6595","Package_DIP:DIP-20_W7.62mm_Socket_LongPads","http://www.ti.com/lit/ds/symlink/tpic6595.pdf"
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet"
+"1","1","J1","SRCK","Connector_Generic:Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal","~"
+"2","1","J2","RCLK","Connector_Generic:Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal","~"
+"3","1","J3","SER IN/OUT","Connector_Generic:Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal","~"
+"4","1","J4","12V","Connector_Generic:Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal","~"
+"5","1","J5","GND","Connector_Generic:Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal","~"
+"6","1","J6","5V","Connector_Generic:Conn_01x02","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Horizontal","~"
+"7","1","J7","LED 12V","Connector:Conn_01x01_Female","Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Horizontal","~"
+"8","1","J8","LED Anodes","Connector:Conn_01x07_Female","Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Horizontal","~"
+"9","1","U1","TPIC6595","Interface_Expansion:TPIC6595","Package_DIP:DIP-20_W7.62mm_Socket_LongPads","http://www.ti.com/lit/ds/symlink/tpic6595.pdf"
